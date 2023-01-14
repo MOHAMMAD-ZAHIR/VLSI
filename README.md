@@ -8,6 +8,8 @@ All rights reverved by Author.
 
 Circuit Design: DSCH3 & Microwind
 
+Algorithm implemented : C++
+
 <h3>LAB PROBLEM:</h3>
 
 PART - 1
